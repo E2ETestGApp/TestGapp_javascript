@@ -1,5 +1,5 @@
 # Quickstart: Black Duck Security Scan Action with polaris:
-#     https://docs.blackduck.com/r/bridge/latest/bridge-cli-guide/quickstart-black-duck-security-scan-action-with-polaris.html
+#     https://black-duck-staging.fluidtopics.net/r/bridge/latest/bridge-cli-guide/quickstart-black-duck-security-scan-action-with-polaris.html
 name: Polaris Security Scan
 on:
   push:
